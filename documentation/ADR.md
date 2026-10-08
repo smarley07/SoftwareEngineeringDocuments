@@ -1,8 +1,9 @@
 # Architecture Decision Records ADR-<NN> — <Titre de la décision>
 **Statut :** Proposed | Accepted | Rejected | Superseded  
-**Date :** <YYYY-MM-DD>  
-**Décideurs :** <noms>  
-**Contexte projet :** <nom du projet / module>
+**Date :** <2026-10-8>  
+**Décideurs :** <Smarley, Nathanael, Neeraj>  
+**Contexte projet :** <application de livraison
+ / module>
 
 ---
 
