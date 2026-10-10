@@ -10,7 +10,7 @@ L’objectif principal est de **[objectif du produit / problème résolu]**.
 ---
 
 ## Équipe
-- Smarley - Num Étudiant
+- Smarley -202437334
 - Nathanael Zoungarani Tshimanga - 2520865
 - Neeraj Nom - Num Étudiant
 
