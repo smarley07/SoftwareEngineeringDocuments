@@ -8,8 +8,8 @@
 ---
 
 ## 1. Contexte
-- **Problème / besoin :** <ce qui déclenche la décision>
-- **Contraintes :** <techniques, temps, équipe, outils>
+- **Problème / besoin :** <Rechercher des produits, consulter les prix , leurs description, les reviews des personnes, commander ou ajouter au panier, et suivre la commande >
+- **Contraintes :** Langue de coding (c sharp, javascript python ), catelogue d'items, Equipe de support
 - **Forces en présence :** <qualité, performance, simplicité, risques>
 
 ---
