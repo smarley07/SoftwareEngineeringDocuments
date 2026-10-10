@@ -27,6 +27,7 @@ IN-5: Retrouver ses commandes passées et suivre leur état.
 IN-6: Côté vendeur : gérer les produits et consulter les commandes.
 IN-7 : Côté livreur : faire avancer l'état d'une livraison.
 IN-8: Simuler la confirmation d'un paiement, pour la démo.
+IN-9:Ajouter de argent dans le solde du compte dans l'application
 
 ### 2.2 Exclu (OUT)
 OUT-1 : Effectuer un paiement réel ou stocker des données bancaires.
