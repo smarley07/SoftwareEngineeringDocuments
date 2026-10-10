@@ -1,5 +1,5 @@
 # Cahier des charges (SRS léger) — <Nom du projet>
-**Équipe :** <Noms>  
+**Équipe :** <Smarley, Nathanael, Neeraj>  
 **Date :** <YYYY-MM-DD>  
 **Version :** <v0.1 / v1.0>
 
