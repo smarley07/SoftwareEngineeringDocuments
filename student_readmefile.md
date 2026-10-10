@@ -1,4 +1,5 @@
 # Nom du projet
+NovaMarket
 
 ## Présentation générale
 Ce projet consiste à développer **[une application gratuit permettant de faire des achats d'objets variés en lign]**. 
@@ -10,7 +11,7 @@ L’objectif principal est de **[objectif du produit / problème résolu]**.
 
 ## Équipe
 - Smarley - Num Étudiant
-- Nathanael Zoungarani Tshimanga - Num Étudiant
+- Nathanael Zoungarani Tshimanga - 2520865
 - Neeraj Nom - Num Étudiant
 
 ---
