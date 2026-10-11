@@ -11,8 +11,8 @@ L’objectif principal est de **[objectif du produit / problème résolu]**.
 
 ## Équipe
 - Smarley -202437334
-- Nathanael Zoungarani Tshimanga - 2520865
-- Neeraj Nom - Num Étudiant
+- Nathanael Zoungarani Tshimanga - 202520865
+- Neeraj Mothoor - 202522589
 
 ---
 
