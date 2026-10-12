@@ -1,5 +1,6 @@
 # Nom du projet
-NovaMarket
+E Commerce website
+
 
 ## Présentation générale
 Ce projet consiste à développer **[une application gratuit permettant de faire des achats d'objets variés en lign]**. 
@@ -13,6 +14,7 @@ L’objectif principal est de **[objectif du produit / problème résolu]**.
 - Smarley -202437334
 - Nathanael Zoungarani Tshimanga - 202520865
 - Neeraj Mothoor - 202522589
+- Reda - 
 
 ---
 
