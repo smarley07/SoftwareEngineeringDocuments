@@ -1,7 +1,7 @@
 # Architecture Decision Records ADR-<NN> — <application de livraison>
 **Statut :** Proposed | Accepted | Rejected | Superseded  
 **Date :** <2026-10-8>  
-**Décideurs :** <Smarley, Nathanael, Neeraj>  
+**Décideurs :** <Smarley, Nathanael, Neeraj, Reda>  
 **Contexte projet :** <application de livraison
  / module>
 
