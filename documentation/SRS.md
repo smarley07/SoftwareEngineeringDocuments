@@ -51,7 +51,6 @@ OUT-4 : Refabriquer tout ce que fait Amazon : recommandations poussées, abonnem
 ---
 
 ## 4. Exigences fonctionnelles (FR)
-> Forme recommandée : “Le système doit…”
 FR-1 : Le client peut créer un compte et se connecter.
 FR-2 : Le système affiche un catalogue de produits, avec pour chacun le nom, le prix et la description.
 FR-3 : Le client peut rechercher un produit par nom ou par catégorie.
