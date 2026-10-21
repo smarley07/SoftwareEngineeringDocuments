@@ -14,7 +14,8 @@ L’objectif principal est de **[objectif du produit / problème résolu]**.
 - Smarley -202437334
 - Nathanael Zoungarani Tshimanga - 202520865
 - Neeraj Mothoor - 202522589
-- Reda - 
+- Reda -
+- Hassan
 
 ---
 
