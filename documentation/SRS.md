@@ -123,6 +123,7 @@ Product Backlog
 - [ ]En tant que vendeur, je peux modifier les description de mon produit, afin de faire une mise à jour.
 - [ ] En tant que administrateur, je peux mettre banir un vendeur, afin de le punir pour mauvais comportement
 - [ ] En tant que administrateur, je peux repondre au signalement, afin de verifier les different problemes rencontrés par les utilisateur
+## 9.3 Propriete
   
 
 
