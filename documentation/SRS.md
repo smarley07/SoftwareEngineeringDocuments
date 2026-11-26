@@ -115,16 +115,58 @@ Les commandes et les livraisons servent de données de démonstration : leur ét
 Product Backlog
 
 ## 9.2 User Stories
-- [ ]En tant que client, je veux creer un compte, afin de regrouper lensemble de mes achats et produits favoris.
-- [ ]En tant que client , je peux cherecher un produit, afin de lajouter dans mon panier achat.
-- [ ]En tant que client , je peux consulter les avis d'un produit, afin d'avoir une idee et des recommandations avant l'achat.
-- [ ]En tant que vendeur, je peux ajouter un produit à vendre,afin de me faire de l'argent.
-- [ ]En tant que vendeur, je peux ajouter un produit à vendre,afin de faire un place chez moi.
-- [ ]En tant que vendeur, je peux modifier les description de mon produit, afin de faire une mise à jour.
-- [ ] En tant que administrateur, je peux mettre banir un vendeur, afin de le punir pour mauvais comportement
-- [ ] En tant que administrateur, je peux repondre au signalement, afin de verifier les different problemes rencontrés par les utilisateur
+- [ ]US-01 En tant que client, je veux creer un compte, afin de regrouper l'ensemble de mes achats et produits favoris.
+- [ ]US-02 En tant que client , je peux cherecher un produit, afin de lajouter dans mon panier achat.
+- [ ]US-03 En tant que client , je peux consulter les avis d'un produit, afin d'avoir une idee et des recommandations avant l'achat.
+- [ ] US-04 En tant que vendeur, je peux ajouter un produit à vendre,afin de me faire de l'argent.
+- [ ] US-05 En tant que vendeur, je peux ajouter un produit à vendre,afin de faire un place chez moi.
+- [ ] US-06 En tant que administrateur, je peux mettre banir un vendeur, afin de le punir pour mauvais comportement
+- [ ] US-07 En tant qu'administrateur, je veux consulter la liste des ventes effectuées sur la plateforme afin de suivre les activités commerciales.
+- [ ] US-08 En tant que administrateur, je peux repondre au signalement, afin de verifier les different problemes rencontrés par les utilisateur
+- [ ] US-09 En tant que client, je veux pouvoir signaler un vendeur afin d'informer l'administration d'un comportement ou d'un problème rencontré sur la plateforme.
+- [ ] US-10 –En tant que vendeur, je peux modifier les description de mon produit, afin de faire une mise à jour.
+  
+
 ## 9.3 Critères d’acceptation des User Stories
-## 9.4 Propriete
+- [ ] 1. US-01 – Création d'un compte client :
+- Le système doit permettre au client de saisir son nom, son prénom, son adresse courriel et son mot de passe.
+- Le système doit vérifier que tous les champs obligatoires sont remplis.
+- Le système doit vérifier que l'adresse courriel n'est pas déjà associée à un compte.
+- Le système doit enregistrer le compte lorsque toutes les informations sont valides.
+- [ ] 2. US-02 – Recherche de produits
+- Le client doit pouvoir rechercher un produit à partir de son nom ou d'un mot-clé.
+- Le système doit afficher les produits correspondant aux mots-clés saisis.
+- Les résultats doivent afficher le nom, le prix et l'image du produit.
+- [ ] 3. US-04 – Ajout d'un produit par le vendeur
+- Le vendeur doit pouvoir accéder à un formulaire d'ajout de produit.
+- Le formulaire doit permettre de saisir le nom, des images, la description, le prix et la quantité du produit.
+- Le système doit vérifier que les champs obligatoires sont remplis.
+- Le produit est associe a son vendeur
+- [ ] 4. US-07 – Gestion des signalements
+- L'administrateur doit pouvoir consulter la liste des signalements reçus.
+- Le système doit afficher les informations du signalement : utilisateur concerné, vendeur concerné, motif et description.
+- L'administrateur doit pouvoir rédiger une réponse concernant un signalement.
+- Le système doit enregistrer la réponse de l'administrateur.
+- [ ] 5. US-10 – Signaler un vendeur
+- Le client doit pouvoir accéder à l'option de signalement d'un vendeur.
+- Le client doit pouvoir sélectionner un motif de signalement.
+- Le client doit pouvoir ajouter une description du problème rencontré.
+-  Le système doit confirmer l'envoi du signalement.
+      
+     
+## 9.4 priorités 
+- [ ] P1 – Haut:
+- [ ] --US-01 – Création d'un compte client
+- [ ] -- US-02 – Recherche de produits
+- [ ] -- US-04 – Ajout d'un produit par le vendeur
+- [ ] P2 – Moyenne:
+- [ ] --US-03 – Consultation des avis
+- [ ] -- US-05 – Modification de la description d'un produit
+- [ ] -- US-06 – Gestion des comptes des vendeurs
+- [ ] -- US-07 – Gestion des signalements
+- [ ] -- US-08 – Consultation des ventes
+- [ ] -- US-09 – Gestion des permissions
+- [ ] -- US-10 – Signalement d'un vendeur
   
 
 
