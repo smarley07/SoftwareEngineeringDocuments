@@ -18,6 +18,7 @@ Vendeur: met ses produits en ligne et regarde les commandes qui le concernent.
 Livreur: voit les livraisons qu'on lui a confiées et en met à jour l'état.
 Administrateur: gère les comptes utilisateurs, surveille le catalogue et les commandes.
 Équipe de développement: analyse les besoins, conçoit le prototype et le réalise dans le cadre du cours.
+Systeme:
 ### 2.1 Inclus (IN)
 IN-1 : Parcourir le catalogue et y chercher un produit.
 IN-2 : Consulter le prix, la description et les avis d'un produit.
@@ -48,22 +49,22 @@ OUT-4 : Refabriquer tout ce que fait Amazon : recommandations poussées, abonnem
 ---
 
 ## 4. Exigences fonctionnelles (FR)
-FR-1 : Le client peut créer un compte et se connecter.
-FR-2 : Le système affiche un catalogue de produits.
-FR-3 : Le client peut rechercher un produit par critere.
-FR-4 : Le client peut consulter les avis liés à un produit.
-FR-5 : Le client peut ajouter un produit au panier, puis modifier ou retirer la quantité.
-FR-6 : Le sous-total du panier est calculé et affiché avant la commande.
-FR-7 : Le client confirme sa commande en fournissant une adresse de livraison.
-FR-8 : Une confirmation de commande s'affiche, avec un paiement simulé : aucune transaction réelle n'est effectuée.
-FR-9 : Le client peut consulter l'historique de ses commandes et leur état.
-FR-10 : Le vendeur peut ajouter, modifier ou retirer ses produits du catalogue.
-FR-11 :L'administrateur peut mettre en garde ou banir un client
-FR-12:L'administrateur peut voir la liste total des produit vendu.
-FR13:L'administrateur peut repondre au different signalement de la boutique
-FR14:L'administrateur peut modifier les permissions
-FR15: Le client peut signaler un vendeur
-FR16: Le client peur donner son avis sur un produit
+- FR-1 : Le client peut créer un compte et se connecter.
+- FR-2 : Le système affiche un catalogue de produits.
+- FR-3 : Le client peut rechercher un produit par critere.
+- FR-4 : Le client peut consulter les avis liés à un produit.
+- FR-5 : Le client peut ajouter un produit au panier, puis modifier ou retirer la quantité.
+- FR-6 : Le sous-total du panier est calculé et affiché avant la commande par le systeme.
+- FR-7 : Le client confirme sa commande en fournissant une adresse de livraison.
+- FR-8 : Une confirmation de commande s'affiche, avec un paiement simulé : aucune transaction réelle n'est effectuée.
+- FR-9 : Le client peut consulter l'historique de ses commandes et leur état.
+- FR-10 : Le vendeur peut ajouter, modifier ou retirer ses produits du catalogue.
+- FR-11 :L'administrateur peut mettre en garde ou banir un client
+- FR-12:L'administrateur peut voir la liste total des produit vendu.
+- FR13:L'administrateur peut repondre au different signalement de la boutique
+- FR14:L'administrateur peut modifier les permissions
+- FR15: Le client peut signaler un vendeur
+- FR16: Le client peur donner son avis sur un produit
 
 ## 5. Exigences non fonctionnelles (NFR)
 > Performance / sécurité / disponibilité / UX / maintenabilité…
