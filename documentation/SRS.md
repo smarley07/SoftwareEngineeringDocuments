@@ -59,7 +59,7 @@ OUT-4 : Refabriquer tout ce que fait Amazon : recommandations poussées, abonnem
 - FR-8 : Une confirmation de commande s'affiche, avec un paiement simulé : aucune transaction réelle n'est effectuée.
 - FR-9 : Le client peut consulter l'historique de ses commandes et leur état.
 - FR-10 : Le vendeur peut ajouter, modifier ou retirer ses produits du catalogue.
-- FR-11 :L'administrateur peut mettre en garde ou banir un client
+- FR-11 :L'administrateur peut mettre en garde ou banir un client,vendeur,livreur
 - FR-12:L'administrateur peut voir la liste total des produit vendu.
 - FR13:L'administrateur peut repondre au different signalement de la boutique
 - FR14:L'administrateur peut modifier les permissions
@@ -117,7 +117,7 @@ Product Backlog
 
 ## 9.2 User Stories
 - [ ]US-01 En tant que client, je veux creer un compte, afin de regrouper l'ensemble de mes achats et produits favoris.
-- [ ]US-02 En tant que client , je peux cherecher un produit, afin de lajouter dans mon panier achat.
+- [ ]US-02 En tant que client , je peux chercher un produit, afin de l'ajouter dans mon panier achat.
 - [ ]US-03 En tant que client , je peux consulter les avis d'un produit, afin d'avoir une idee et des recommandations avant l'achat.
 - [ ] US-04 En tant que vendeur, je peux ajouter un produit à vendre,afin de me faire de l'argent.
 - [ ] US-05 En tant que vendeur, je peux ajouter un produit à vendre,afin de faire un place chez moi.
@@ -126,6 +126,11 @@ Product Backlog
 - [ ] US-08 En tant que administrateur, je peux repondre au signalement, afin de verifier les different problemes rencontrés par les utilisateur
 - [ ] US-09 En tant que client, je veux pouvoir signaler un vendeur afin d'informer l'administration d'un comportement ou d'un problème rencontré sur la plateforme.
 - [ ] US-10 –En tant que vendeur, je peux modifier les description de mon produit, afin de faire une mise à jour.
+- [ ] US-11 –En tant que client, je veux retirer des produits de mon panier afin de préparer ma commande.
+- [ ] US-12 -En tant que client, je veux voir le sous-total de mon panier afin de connaître le montant de mes produits avant de confirmer ma commande.
+- [ ] US-13 -En tant que client, je veux confirmer ma commande en fournissant une adresse de livraison afin de recevoir les produits commandés
+- [ ] US-14 –En tant que client, je veux consulter mes anciennes commandes et leur état afin de suivre mes achats.
+- [ ] US-15 –En tant que client, je veux laisser une note et un commentaire sur un produit afin de partager mon expérience avec les autres clients.
   
 
 ## 9.3 Critères d’acceptation des User Stories
